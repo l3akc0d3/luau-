@@ -1,4 +1,4 @@
-local new = "L3akC0d3"
+local new = "L3akC0d3" -- your name
 local plr = game.Players.LocalPlayer
 
 local idx; idx = hookmetamethod(game, "__index", function(self, k)
